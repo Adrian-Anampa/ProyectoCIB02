@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+psycopg[binary]
+alembic
+pydantic-settings
+passlib[bcrypt]
+pillow
+pytest
+pytest-cov
+httpx
+ruff
+locust
+
